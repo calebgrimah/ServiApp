@@ -10,5 +10,5 @@ The user posts a task and any other logged in user can view this task and indica
 6.Beautify UI.
 7.Add Settings Activity for app settings.
 8.Test.
-
+And lots more..This is a work in progress.
 
