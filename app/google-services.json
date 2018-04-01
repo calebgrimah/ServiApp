@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "930400307601",
+    "firebase_url": "https://servi-a0e54.firebaseio.com",
+    "project_id": "servi-a0e54",
+    "storage_bucket": "servi-a0e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930400307601:android:a1c80b2661a1e8ce",
+        "android_client_info": {
+          "package_name": "neoncore.com.servi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930400307601-gm1td64bo29fn46kn27j6umpv31uqacj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "neoncore.com.servi",
+            "certificate_hash": "fd62aea13953a6a4e04de2e1b576491afda52d20"
+          }
+        },
+        {
+          "client_id": "930400307601-vqofc18ks2jca27bmpmt0elr538odm1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm7_R6-GPwmTEwVj0s4INRPbbH_Ouen7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930400307601-vqofc18ks2jca27bmpmt0elr538odm1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
